@@ -1,4 +1,5 @@
     import React from 'react'
+    import {  } from "../src/components/Style.css";
 
     function Signup() {
     return (
